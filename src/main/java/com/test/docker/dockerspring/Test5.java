@@ -3,6 +3,17 @@ class Test5{
 		System.out.println("Helo");
 		
 		System.out.println("g");
+		System.out.println("Helo");
+		
+		System.out.println("g");
+		System.out.println("Helo");
+		
+		System.out.println("g");
+		System.out.println("Helo");
+		
+		System.out.println("g");System.out.println("Helo");
+		
+		System.out.println("g");
 		
 	}
 }
